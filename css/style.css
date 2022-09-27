@@ -1370,15 +1370,3 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
-
-
-.e-backimg{
-	width: 100%;
-	display: inline-block;
-}
-.e-backimg img {
-	width: 300px;
-	height: 600px;
-	display: inline-block;
-	margin-right: 10px;
-}
